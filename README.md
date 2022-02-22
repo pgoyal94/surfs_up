@@ -6,8 +6,7 @@ To open a shop called Surf 'n' Shake, a store for surf gear and ice cream, we re
 
 ## Results: 
 
-<img width="93" alt="image" src="https://user-images.githubusercontent.com/92613639/155044094-19482a14-02a9-4695-ac7b-a0538540ace8.png">
-<img width="96" alt="image" src="https://user-images.githubusercontent.com/92613639/155044071-d842cb70-7ab7-4797-9de9-7afd58a301f5.png">
+<img width="93" alt="image" src="https://user-images.githubusercontent.com/92613639/155044094-19482a14-02a9-4695-ac7b-a0538540ace8.png"> <img width="96" alt="image" src="https://user-images.githubusercontent.com/92613639/155044071-d842cb70-7ab7-4797-9de9-7afd58a301f5.png">
 
 - 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
